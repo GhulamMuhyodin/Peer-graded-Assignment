@@ -12,7 +12,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "name": "Ghulam Mahyodin",
+  "name": "",
   "email": "gm@example.com"
 }
 
