@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {}
+    "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {}
   },
   "projects": {
-    "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {
+    "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
+        "projectUniqueName": "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
         "projectName": ".Net-Assignment",
-        "projectPath": "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
+        "projectPath": "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
         "packagesPath": "C:\\Users\\GM\\.nuget\\packages\\",
-        "outputPath": "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\obj\\",
+        "outputPath": "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [

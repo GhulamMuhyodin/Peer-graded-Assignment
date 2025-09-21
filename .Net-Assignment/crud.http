@@ -10,9 +10,10 @@ Accept: application/json
 POST http://localhost:5000/api/users
 Content-Type: application/json
 Accept: application/json
+X-Api-Key: my-secret-key
 
 {
-  "name": "",
+  "name": "Ghulam Mahyodin",
   "email": "gm@example.com"
 }
 
