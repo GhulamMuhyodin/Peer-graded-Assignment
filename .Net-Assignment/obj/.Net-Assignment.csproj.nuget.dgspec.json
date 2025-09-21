@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {}
+    "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {}
   },
   "projects": {
-    "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {
+    "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
+        "projectUniqueName": "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
         "projectName": ".Net-Assignment",
-        "projectPath": "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
+        "projectPath": "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\.Net-Assignment.csproj",
         "packagesPath": "C:\\Users\\GM\\.nuget\\packages\\",
-        "outputPath": "D:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\obj\\",
+        "outputPath": "d:\\Net Assignment\\Peer-graded-Assignment\\.Net-Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
