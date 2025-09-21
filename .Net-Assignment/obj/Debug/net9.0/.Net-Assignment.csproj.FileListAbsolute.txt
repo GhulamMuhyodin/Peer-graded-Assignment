@@ -32,3 +32,6 @@ D:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\obj\Debug\net9.0\refint
 D:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\obj\Debug\net9.0\.Net-Assignment.pdb
 D:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\obj\Debug\net9.0\.Net-Assignment.genruntimeconfig.cache
 D:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\obj\Debug\net9.0\ref\.Net-Assignment.dll
+d:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Net Assignment\Peer-graded-Assignment\.Net-Assignment\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
